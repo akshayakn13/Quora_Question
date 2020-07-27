@@ -8,3 +8,5 @@ Currently, Quora uses a Random Forest model to identify duplicate questions. In 
 
 
 ### For any Code related queries feel to mail me at akshayakn95@gmail.com
+## credits
+www.applied.com for helping and providing useful resources to complete this case study
